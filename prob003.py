@@ -5,7 +5,7 @@ prime = 2
 answer = 0
 while thenumber > 1:
     if thenumber % prime == 0:
-        thenumber = thenumber/prime
+        thenumber = thenumber//prime
         continue
     prime = gmpy2.next_prime(prime)
     answer = prime
