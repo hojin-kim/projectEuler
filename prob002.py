@@ -14,7 +14,7 @@ while(fibo2 < 4000000):
 print(sum)
 
 """
-on generating we need only three variables; we don't need list. and its fast. 
+on generating we need only three variables; we don't need list. and it's fast. 
 """
 
 sum = 0
